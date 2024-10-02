@@ -1,4 +1,4 @@
-HERANCA_!
+HERANCA_1
 
 Descrição do projeto:
 Este projeto cria um sistema simples utilizando a linguagem Java para criar com Classes e Heranças de uma Superclasse, atendendo os requisitos:
